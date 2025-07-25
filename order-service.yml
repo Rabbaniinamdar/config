@@ -25,4 +25,4 @@ management:
         include: "*"
 
 app:
-  message: "Hello Please run!"
+  message: "Hello chal bhai run hoja ab!"
