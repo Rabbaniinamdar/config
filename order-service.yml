@@ -25,4 +25,4 @@ management:
         include: "*"
 
 app:
-  message: "Hello webhook!"
+  message: "Hello Rabbani!"
