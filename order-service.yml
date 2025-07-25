@@ -25,4 +25,4 @@ management:
         include: "*"
 
 app:
-  message: "Hello inamdar!"
+  message: "Hello Rabbani!"
